@@ -1,7 +1,5 @@
 # Binary Exploitation
-I have another interesting project @[DockerENT](https://github.com/r0hi7/DockerENT), @[Trashemail](https://github.com/r0hi7/Trashemail) take some time to review it as well.
-
-#### Any Doubt...? [Let's Discuss](https://gitter.im/BinaryExploitation/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+#### Any Doubt...? [Let's Discuss](https://hacksudo.com/contact)
 > ## Introduction
 > I am quite passionate about exploiting binary files. The first time when I came across Buffer Overflow(a simple technique of exploitation), then I was not able to implement the same with the same copy of code on my system.
 The reason for that was there was no consolidated document that would guide me thoroughly to write a perfect exploit payload for the program in case of system changes.
